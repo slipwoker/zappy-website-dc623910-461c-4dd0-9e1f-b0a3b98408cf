@@ -1,0 +1,108 @@
+# Outfit to Fortnite — Generative Engine Optimization Map
+
+> A website targeting Fortnite players, centered around the popular battle royale game Fortnite. The brand likely carries a dynamic, energetic gaming vibe with themes related to the Fortnite universe — including its iconic characters, vibrant colors, and competitive gaming culture.
+
+---
+
+## Pages
+
+### בית
+https://outfit-to-fortnite-dc623910.zappy5.app
+קפוץ לזירת הקרב האולטימטיבית עם Outfit to Fortnite! טיפים מנצחים, עדכוני דמויות וחדשות גיימינג חמות מחכות לך. התחבר ל-Xbox Cloud Gaming ותחווה משחק חלק במיוחד.
+
+### ספר השחקן
+https://outfit-to-fortnite-dc623910.zappy5.app/player-playbook
+הפוך לשחקן אגדי עם ספר השחקן שלנו! גלה אסטרטגיות סודיות, שילובי נשקים קטלניים וטקטיקות מ-Elder Scrolls Online שישדרגו את המשחק שלך. התחל לשלוט עכשיו.
+
+### זירת היוצרים
+https://outfit-to-fortnite-dc623910.zappy5.app/creator-arena
+זירת היוצרים מחכה לך! למד לבנות מפות מרהיבות, עיצובי דמויות וסרטוני משחק שוברי רשת. שלב השראה מ-World of Warcraft ופרוץ קדימה עם Xbox Cloud Gaming.
+
+### אודות
+https://outfit-to-fortnite-dc623910.zappy5.app/about
+הכירו את הצוות שמאחורי Outfit to Fortnite — מובילי תרבות הגיימינג בישראל. מהחזון ועד לקהילה, אנחנו מביאים תשוקה, Elder Scrolls Online וחדשנות לכל שחקן. בואו להיות חלק.
+
+### צור קשר
+https://outfit-to-fortnite-dc623910.zappy5.app/contact
+יש לך שאלה על פורטנייט, Xbox Cloud Gaming או שיתוף פעולה? צור קשר עם Outfit to Fortnite עוד היום! אנחנו זמינים לכל אתגר גיימינג, מהר יותר מניצחון רויאל.
+
+### Products
+https://outfit-to-fortnite-dc623910.zappy5.app/products
+המוצרים שלנו - Outfit to Fortnite
+
+### Cart
+https://outfit-to-fortnite-dc623910.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://outfit-to-fortnite-dc623910.zappy5.app/checkout
+תשלום
+
+### Login
+https://outfit-to-fortnite-dc623910.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://outfit-to-fortnite-dc623910.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://outfit-to-fortnite-dc623910.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://outfit-to-fortnite-dc623910.zappy5.app/product/:slug
+פרטי המוצר - Outfit to Fortnite
+
+### Category
+https://outfit-to-fortnite-dc623910.zappy5.app/category/:slug
+מוצרים - Outfit to Fortnite
+
+### תודה רבה - Outfit to Fortnite
+https://outfit-to-fortnite-dc623910.zappy5.app/thank-you
+תודה על פנייתך! קיבלנו את ההודעה שלך ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://outfit-to-fortnite-dc623910.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://outfit-to-fortnite-dc623910.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://outfit-to-fortnite-dc623910.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Outfit to Fortnite
+A website targeting Fortnite players, centered around the popular battle royale game Fortnite. The brand likely carries a dynamic, energetic gaming vibe with themes related to the Fortnite universe — including its iconic characters, vibrant colors, and competitive gaming culture.
+
+## Target Audience
+- שחקני פורטנייט
+- שחקני פורטנייט תחרותיים
+- יוצרי תוכן פורטנייט
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://outfit-to-fortnite-dc623910.zappy5.app/sitemap.xml
+- Robots: https://outfit-to-fortnite-dc623910.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://outfit-to-fortnite-dc623910.zappy5.app/llms-full.txt
+- Products (JSON): https://outfit-to-fortnite-dc623910.zappy5.app/products.json
+- Products (Google Merchant RSS): https://outfit-to-fortnite-dc623910.zappy5.app/product-feed.xml
